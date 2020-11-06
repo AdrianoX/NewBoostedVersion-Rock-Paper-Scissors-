@@ -1,1 +1,1 @@
-# NewBoostedVersion-Rock-Paper-Scissors-
+# NewBoostedVersion-Rock-Paper-Scissors
